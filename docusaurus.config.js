@@ -9,7 +9,7 @@ const config = {
   title: "n2d",
   tagline: "something i know",
   url: "https://839781960.github.io",
-  baseUrl: "/docu-notion-sample-site/",
+  baseUrl: "/n2d/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
