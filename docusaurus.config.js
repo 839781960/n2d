@@ -6,16 +6,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "notion pull sample",
-  tagline: "",
-  url: "https://sillsdev.github.io",
+  title: "n2d",
+  tagline: "something i know",
+  url: "https://839781960.github.io",
   baseUrl: "/docu-notion-sample-site/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  organizationName: "sillsdev", // Usually your GitHub org/user name.
-  projectName: "docu-notion-sample-site", // Usually your repo name.
+  organizationName: "839781960", // Usually your GitHub org/user name.
+  projectName: "n2d", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   presets: [
